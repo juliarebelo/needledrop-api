@@ -1,0 +1,40 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "Billy",
+      "username": "@Duxal",
+      "fotoUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face"
+    }
+  ],
+  "playlists": [
+    { 
+      "id": "p1", 
+      "usuarioId": "1", 
+      "titulo": "Dirigindo", 
+      "capaUrl": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=150&h=150&fit=crop" 
+    },
+    { 
+      "id": "p2", 
+      "usuarioId": "1", 
+      "titulo": "2000's", 
+      "capaUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=150&h=150&fit=crop" 
+    }
+  ],
+  "albuns": [
+    { 
+      "id": "a1", 
+      "titulo": "Bad", 
+      "artista": "Michael Jackson", 
+      "genero": "Pop", 
+      "capaUrl": "https://upload.wikimedia.org/wikipedia/en/5/51/Michael_Jackson_-_Bad.png" 
+    },
+    { 
+      "id": "a2", 
+      "titulo": "Clube da Esquina", 
+      "artista": "Lô Borges e Milton Nascimento", 
+      "genero": "MPB", 
+      "capaUrl": "https://upload.wikimedia.org/wikipedia/pt/6/6d/Clube_da_Esquina.jpg" 
+    }
+  ]
+}
